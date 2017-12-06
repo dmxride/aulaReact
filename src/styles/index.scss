@@ -1,0 +1,14 @@
+@import 'app',
+'slider',
+'searchBar',
+'../../node_modules/slick-carousel/slick/slick.css',
+'../../node_modules/slick-carousel/slick/slick-theme.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100vh;
+  font-family: sans-serif;
+}
